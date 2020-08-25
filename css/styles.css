@@ -1,0 +1,53 @@
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,102,203);
+} 
+
+body {
+  background-image: url("../img/bg.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #141823;
+}
+
+.home {
+  padding-top: 150px;
+}
+
+.home img{
+  height: 250px;
+  width: 250px;
+}
+
+.home img:hover {
+  cursor: pointer;
+}
+
+.social {
+  margin-top: 80px;
+}
+
+.social ul li{
+  list-style-type: none;
+  display: inline;
+}
+
+.social ul li a{
+  margin:0 15px;
+  text-decoration: none;
+  color: white;
+}
+
+.social ul li a:hover {
+  color: yellow;
+}
+
+
+.x:hover {
+  
+}
+
